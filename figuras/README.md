@@ -1,0 +1,1 @@
+Esta pasta reúne as figuras utilizadas no artigo científico do 9º EnGeTec 2026, incluindo o fluxo geral do KNIME, a distribuição das entregas e a comparação das matrizes de confusão dos classificadores.
