@@ -1,0 +1,4 @@
+"TruePositives","FalsePositives","FalseNegatives","Recall","Precision","F-measure","Modelo"
+0,0,1961,0,,,"Árvore de decisão original"
+967,5348,994,0.49311575726670065,0.15312747426761678,0.23368777187046885,"Árvore de decisão + SMOTE"
+0,0,1961,0,,,"Random Forest"
